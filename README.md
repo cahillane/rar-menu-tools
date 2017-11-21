@@ -4,7 +4,7 @@ RAR for Mac OS X. Finally the tool you have been looking for to directly create 
 
 ## Code Example
 
-Screenshots and usage directions are available from the instruction file found inside the disk image MDG file.
+Screenshots and usage directions are available from the instruction file found inside the disk image DMG file.
 
 ## Motivation
 
